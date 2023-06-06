@@ -1,3 +1,6 @@
+
+   
+
 (function(document) {
     var metas = document.getElementsByTagName('meta'),
         changeViewportContent = function(content) {
