@@ -50,6 +50,8 @@
 </li>
 <br>
 
+
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -98,6 +100,27 @@
 
 </li>
 <br>
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="assets/img/addr-overview.png" class="teaser img-fluid z-depth-1">
+      <abbr class="badge">QAS</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.15586/qas.v15iSP1.1167">Apple diseases: Detection and Classification using Transfer Learning</a></div>
+      <div class="author">Muzafar Rasool Bhat, Assif Assad, B.N. Dar, Ab Naffi Ahanger, <strong>Majid Kundroo</strong> , Rayees Ahmad Dar,
+        Abdul Basit Ahanger and Z.A. Bhat</div>
+      <div class="periodical"><em>Quality Assurance and Safety of Crops & Foods, 2023 (I.F 4.0).</em></div>
+      <div class="links">
+        <a href="https://doi.org/10.15586/qas.v15iSP1.1167" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+        <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+        <a href="./assets/bibtex/addr.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+        <strong><i style="color:#e74d3c"> &nbsp;Journal Article</i></strong>
+      </div>
+    </div>
+  </div>
+  </li>  
 
 </ol>
 

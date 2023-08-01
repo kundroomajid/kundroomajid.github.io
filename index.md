@@ -17,6 +17,7 @@ Hello, my name is Majid Ahmad Kundroo, and I am a driven and enthusiastic Ph.D. 
 - **[May. 2023]** One paper related to Federated Learning is accepted to ICDCS 2023.
 - **[Mar. 2023]** Our paper related to analysis of federated learning is published in IEEE Access.
 - **[Dec. 2022]** Our paper about pod autoscaling in Kube-Edge is published in IEEE Access.
+- **[Aug. 2022]** Our paper about disease detection and classifcation of apples is accepted in QAS (I.F 4.0)
 
 {% include_relative _includes/publications.md %}
 
