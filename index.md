@@ -9,10 +9,11 @@ Hello, my name is Majid Ahmad Kundroo, and I am a driven and enthusiastic Ph.D. 
 ## Research Interests
 
 - **Federated Learning:** Hyper-Parameter Optimization, Convergence, Communication Efficency
-- **Machine Learning:** Social Media Analysis, Topi Modelling, Deep Learning
+- **Machine Learning:** Social Media Analysis, Topic Modelling, Deep Learning
 
 ## News
-
+- **[July. 2023]** Recieved best paper award by Korea Digital Contents Society.
+- **[June. 2023]** A paper titled "Effects of Model Hyper-parameters in Federated Learning: A Short Analysis" is accepted in Korea Digital Content Society Conference.
 - **[May. 2023]** One paper related to Federated Learning is accepted to ICDCS 2023.
 - **[Mar. 2023]** Our paper related to analysis of federated learning is published in IEEE Access.
 - **[Dec. 2022]** Our paper about pod autoscaling in Kube-Edge is published in IEEE Access.
