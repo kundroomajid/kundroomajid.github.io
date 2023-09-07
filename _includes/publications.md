@@ -16,10 +16,10 @@
         <div class="author"><strong>Majid Kundroo</strong>, Taehong Kim</div>
         <div class="periodical"><em>Journal of King Saud University - Computer and Information Sciences, 2023. (I.F 6.9)</em></div>
         <div class="links">
-          <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="https://doi.org/10.1016/j.jksuci.2023.101740" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
           <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-          <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+          <a href="./assets/bibtex/fedhpo.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
           <strong><i style="color:#e74d3c">Journal Article</i></strong>
         </div>
       </div>
@@ -38,7 +38,7 @@
         <div class="author"><strong>Majid Kundroo</strong>, Taehong Kim</div>
         <div class="periodical"><em>Digital Contents Society Conference <strong>(DCS)</strong>, 2023.</em></div>
         <div class="links">
-          <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
           <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
           <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
           <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
