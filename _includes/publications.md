@@ -14,7 +14,7 @@
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title"><a href="https://doi.org/10.1016/j.jksuci.2023.101740">Federated Learning with Hyper-parameter Optimization</a></div>
         <div class="author"><strong>Majid Kundroo</strong>, Taehong Kim</div>
-        <div class="periodical"><em>Journal of King Saud University - Computer and Information Sciences <strong>JKSUCI</strong>, 2023. (I.F 6.9)</em></div>
+        <div class="periodical"><em>Journal of King Saud University - Computer and Information Sciences, 2023. (I.F 6.9)</em></div>
         <div class="links">
           <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
@@ -36,7 +36,7 @@
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title"><a href="{{ site.dcs-23 }}">Effects of Model Hyper-parameters in Federated Learning: A Short Analysis</a></div>
         <div class="author"><strong>Majid Kundroo</strong>, Taehong Kim</div>
-        <div class="periodical"><em>Digital Contents Society Conference <strong>(DCS-2023)</strong>, 2023.</em></div>
+        <div class="periodical"><em>Digital Contents Society Conference <strong>(DCS)</strong>, 2023.</em></div>
         <div class="links">
           <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
