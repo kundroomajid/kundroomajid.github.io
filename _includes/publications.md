@@ -4,6 +4,7 @@
 
 <ol class="bibliography">
 <h2 id="" style="margin: 20px 0px 10px;">2023</h2>
+
 <li>
     <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -25,9 +26,6 @@
     </div>
     </li>
     <br>
-
-<li>
-
 
 <li>
     <div class="pub-row">
@@ -57,7 +55,6 @@
     <img src="assets/img/icdcs-23.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICDCS</abbr>
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="#">Efficient Federated Learning with Adaptive Client-Side Hyper-Parameter Optimization</a></div>
     <div class="author"><strong>Majid Kundroo</strong>, Taehong Kim</div>
