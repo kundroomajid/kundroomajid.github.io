@@ -150,7 +150,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/sentiment_bbij.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Elsevier</abbr>
   </div>
 
@@ -194,7 +194,7 @@
   <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <img src="assets/img/btm_overview.png" class="teaser img-fluid z-depth-1">
+      <img src="assets/img/btm_overview.jpg" class="teaser img-fluid z-depth-1">
       <abbr class="badge">Bentham Science</abbr>
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
