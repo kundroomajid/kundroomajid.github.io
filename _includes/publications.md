@@ -159,7 +159,7 @@
     <div class="author">Muzafar Bhat, Monisa Qadri, <strong>Majid Kundroo</strong>, Naffi Ahanger, Noor-ul-Asrar Beg, Basant Agarwal</div>
     <div class="periodical"><em>Brain, Behavior, and Immunity <strong>(Elsevier)</strong>, 2020.</em></div>
     <div class="links">
-      <a href="https://doi.org/10.1016/j.bbi.2020.05.0069" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1016/j.bbi.2020.05.006" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <a href="./assets/bibtex/bhat2020.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
