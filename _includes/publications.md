@@ -143,6 +143,75 @@
   </div>
   </li>  
 
+<br>
+<hr>
+<h2 id="year" style="margin: 20px 0px 10px;">2020</h2>
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Elsevier</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1016/j.bbi.2020.05.006">Sentiment analysis of social media response on the Covid19 outbreak</a></div>
+    <div class="author">Muzafar Bhat, Monisa Qadri, <strong>Majid Kundroo</strong>, Naffi Ahanger, Noor-ul-Asrar Beg, Basant Agarwal</div>
+    <div class="periodical"><em>Brain, Behavior, and Immunity <strong>(Elsevier)</strong>, 2020.</em></div>
+    <div class="links">
+      <a href="https://doi.org/10.1016/j.bbi.2020.05.0069" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="./assets/bibtex/bhat2020.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c"> &nbsp;Journal Article</i></strong>
+    </div>
+  </div>
+</div>
+
+</li>
+<br>
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="assets/img/deeplda.png" class="teaser img-fluid z-depth-1">
+      <abbr class="badge">T&F</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.1080/02522667.2019.1616911">Deep LDA : A new way to topic model</a></div>
+      <div class="author">MR Bhat, <strong>Majid Kundroo</strong>, TA Tarray, B Agarwal</div>
+      <div class="periodical"><em>Journal of Information and Optimization Sciences  (2020).</em></div>
+      <div class="links">
+        <a href="https://doi.org/10.1080/02522667.2019.1616911" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+        <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+        <a href="./assets/bibtex/deeplda_2020.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+        <strong><i style="color:#e74d3c"> &nbsp;Journal Article</i></strong>
+      </div>
+    </div>
+  </div>
+  </li>  
+
+  <li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="assets/img/btm_overview.png" class="teaser img-fluid z-depth-1">
+      <abbr class="badge">Bentham Science</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.2174/1872212113666190328183517">Understanding Twitter Hashtags from Latent Themes Using Biterm Topic Model</a></div>
+      <div class="author">Muzafar R. Bhat, Burhan Bashir, <strong>Majid A. Kundroo</strong> and Naffi A. Ahanger</div>
+      <div class="periodical"><em>Journal of Information and Optimization Sciences  (2020).</em></div>
+      <div class="links">
+        <a href="https://doi.org/10.2174/1872212113666190328183517" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+        <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+        <a href="./assets/bibtex/btm.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+        <strong><i style="color:#e74d3c"> &nbsp;Journal Article</i></strong>
+      </div>
+    </div>
+  </div>
+  </li>  
+
 </ol>
 
 </div>
