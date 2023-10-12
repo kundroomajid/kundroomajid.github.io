@@ -56,11 +56,11 @@
     <abbr class="badge">ICDCS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="#">Efficient Federated Learning with Adaptive Client-Side Hyper-Parameter Optimization</a></div>
+    <div class="title"><a href="https://doi.org/10.1109/ICDCS57875.2023.00103">Efficient Federated Learning with Adaptive Client-Side Hyper-Parameter Optimization target="_blank"</a></div>
     <div class="author"><strong>Majid Kundroo</strong>, Taehong Kim</div>
     <div class="periodical"><em>IEEE International Conference on Distributed Computing Systems <strong>(ICDCS)</strong>, 2023.</em></div>
     <div class="links">
-      <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://doi.org/10.1109/ICDCS57875.2023.00103" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
