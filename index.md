@@ -12,6 +12,7 @@ Hello, my name is Majid Ahmad Kundroo, and I am a driven and enthusiastic Ph.D. 
 - **Machine Learning:** Social Media Analysis, Topic Modelling, Deep Learning
 
 ## News
+- **[Dec. 2023]** Recieved Outstanding Graduate Researcher Award from Chungbuk National University.
 - **[August. 2023]** Paper titled "Federated Learning with Hyper-Parameter Optimzation" accepted in Journal of King Saud University – Computer and Information Sciences, August 2023. [IF 6.9, JCR Top 15%]
 - **[July. 2023]** Recieved best paper award by Korea Digital Contents Society.
 - **[June. 2023]** A paper titled "Effects of Model Hyper-parameters in Federated Learning: A Short Analysis" is accepted in Korea Digital Content Society Conference.
