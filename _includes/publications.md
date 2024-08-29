@@ -11,7 +11,7 @@
     <abbr class="badge">IEEE Access</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1109/ACCESS.2023.3262945">Demystifying Impact of Key Hyper-Parameters in Federated Learning: A Case Study on CIFAR-10 and FashionMNIST</a></div>
+    <div class="title"><a href="https://doi.org/10.1109/ACCESS.2024.3450894">Demystifying Impact of Key Hyper-Parameters in Federated Learning: A Case Study on CIFAR-10 and FashionMNIST</a></div>
     <div class="author"> <strong>Majid Kundroo</strong>, Taehong Kim</div>
     <div class="periodical"><em>IEEE Access <strong>(IEEE)</strong>, 08/2024.</em></div>
     <div class="links">
