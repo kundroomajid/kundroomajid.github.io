@@ -12,8 +12,9 @@ Hello, my name is Majid Ahmad Kundroo, and I am a driven and enthusiastic Ph.D. 
 - **Machine Learning:** Social Media Analysis, Topic Modelling, Deep Learning
 
 ## News
-**[August. 2024]**Paper titled "Demystifying Impact of Key Hyper-Parameters in Federated Learning: A Case Study on CIFAR-10 and FashionMNIST, August 2024. [IF 3.4, JCR Top 34.5%]
-- **[April. 2024]**Paper titled "WSN-Driven Advances in Soil Moisture Estimation: A Machine Learning Approach" accepted in MDPI-Electronics, April 2024. [IF 2.6, JCR Top 44.5%]
+- **[August. 2024]** Paper titled "Demystifying Impact of Key Hyper-Parameters in Federated Learning: A Case Study on CIFAR-10 and FashionMNIST" accepted in IEEE Access, August 2024. [IF 3.4, JCR Top 34.5%]
+- **[July. 2024]** Paper titled "Enhancing Traffic Management in Smart Cities: A Federated Learning Approach for Traffic Light Violation Detection" accepted in HCIS, July 2024. [IF 3.9, JCR Top 26.3%]
+- **[April. 2024]** Paper titled "WSN-Driven Advances in Soil Moisture Estimation: A Machine Learning Approach" accepted in MDPI-Electronics, April 2024. [IF 2.6, JCR Top 44.5%]
 - **[Dec. 2023]** Recieved Outstanding Graduate Researcher Award from Chungbuk National University.
 - **[August. 2023]** Paper titled "Federated Learning with Hyper-Parameter Optimzation" accepted in Journal of King Saud University – Computer and Information Sciences, August 2023. [IF 6.9, JCR Top 15%]
 - **[July. 2023]** Recieved best paper award by Korea Digital Contents Society.
