@@ -4,6 +4,28 @@
 
 <ol class="bibliography">
 <h2 id="" style="margin: 20px 0px 10px;">2024</h2>
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/hp_impact_access.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE Access</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1109/ACCESS.2023.3262945">Demystifying Impact of Key Hyper-Parameters in Federated Learning: A Case Study on CIFAR-10 and FashionMNIST</a></div>
+    <div class="author"> <strong>Majid Kundroo</strong>, Taehong Kim</div>
+    <div class="periodical"><em>IEEE Access <strong>(IEEE)</strong>, 08/2024.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/10654271" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="./assets/bibtex/hp_impact_access.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c"> &nbsp;Journal Article</i></strong>
+    </div>
+  </div>
+</div>
+
+</li>
+<br>
 
 <li>
     <div class="pub-row">
