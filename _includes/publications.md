@@ -3,7 +3,33 @@
 <div class="publications">
 
 <ol class="bibliography">
+<h2 id="" style="margin: 20px 0px 10px;">2025</h2>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/fldqn.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Sensors</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.3390/s25030911">FLDQN: Cooperative Multi-Agent Federated Reinforcement Learning for Solving Travel Time Minimization Problems in Dynamic Environments Using SUMO Simulation</a></div>
+    <div class="author"> Abdul Wahab Mamond, <strong>Majid Kundroo</strong>, Seong-eun Yoo, Seonghoon Kim, Taehong Kim</div>
+    <div class="periodical"><em>Sensors <strong>(MDPI)</strong>, 02/2025.</em></div>
+    <div class="links">
+      <a href="https://www.mdpi.com/1424-8220/25/3/911/pdf?version=1738639669" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="./assets/bibtex/fldqn.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c"> &nbsp;Journal Article</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+
 <h2 id="" style="margin: 20px 0px 10px;">2024</h2>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -23,7 +49,6 @@
     </div>
   </div>
 </div>
-
 </li>
 <br>
 
