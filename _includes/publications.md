@@ -12,7 +12,7 @@
     <abbr class="badge">JIMS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.3390/s25030911">Reinforcement learning-based laser cutting machine parameter optimization</a></div>
+    <div class="title"><a href="https://link.springer.com/article/10.1007/s10845-025-02619-z">Reinforcement learning-based laser cutting machine parameter optimization</a></div>
     <div class="author"> Khanh Quan Pham, <strong>Majid Kundroo</strong>,  Geunwoo Ban, Seongho Bae, Taehong Kim</div>
     <div class="periodical"><em> Journal of Intelligent Manufacturing <strong>(JIMS, Springer Nature)</strong>, 05/2025.</em></div>
     <div class="links">
