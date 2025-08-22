@@ -8,6 +8,28 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/fedeasy.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">SoftwareX</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1016/j.softx.2025.102276">FedEasy : Federated learning with ease </a></div>
+    <div class="author"> <strong>Majid Kundroo</strong>, Ghani Haider, Nguyen Khoa, Abdul Wahab Mamond, Taehong Kim</div>
+    <div class="periodical"><em> SoftwareX <strong>(Elsevier)</strong>, 05/2025.</em></div>
+    <div class="links">
+      <a href="https://doi.org/10.1016/j.softx.2025.102276" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="./assets/bibtex/fedeasy.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c"> &nbsp;Journal Article</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/nps_rl_paper.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">JIMS</abbr>
   </div>

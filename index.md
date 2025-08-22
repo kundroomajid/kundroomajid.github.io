@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello, my name is Majid Ahmad Kundroo, and I am a driven and enthusiastic Ph.D. student at [NCLAB](https://nclab.cbnu.ac.kr). I am deeply involved in the field of artificial intelligence. My undivided attention is drawn to the interesting field of federated learning. With an insatiable curiosity and an uncompromising passion for innovation, I am dedicated to developing vital solutions for more efficient, secure, and decentralized approaches to machine learning. I'm on a quest to shape the future of AI, armed with an extensive understanding of complex algorithms and a solid foundation in statistical analysis. My research focuses on the enormous potential of federated learning, a decentralized technique that allows collaborative model training across numerous devices or companies while maintaining data privacy. I hope to create rapid, secure, and privacy-preserving solutions that enable enterprises to leverage the collective intelligence of their dispersed data by developing distinctive approaches and algorithms.
+Hello, my name is Majid Ahmad Kundroo, and I am a Postdoctoral researcher at [NCLAB](https://nclab.cbnu.ac.kr). I am deeply involved in the field of artificial intelligence. My undivided attention is drawn to the interesting field of federated learning. With an insatiable curiosity and an uncompromising passion for innovation, I am dedicated to developing vital solutions for more efficient, secure, and decentralized approaches to machine learning. I'm on a quest to shape the future of AI, armed with an extensive understanding of complex algorithms and a solid foundation in statistical analysis. My research focuses on the enormous potential of federated learning, a decentralized technique that allows collaborative model training across numerous devices or companies while maintaining data privacy. I hope to create rapid, secure, and privacy-preserving solutions that enable enterprises to leverage the collective intelligence of their dispersed data by developing distinctive approaches and algorithms.
 
 ## Research Interests
 
@@ -12,6 +12,8 @@ Hello, my name is Majid Ahmad Kundroo, and I am a driven and enthusiastic Ph.D. 
 - **Machine Learning:** Social Media Analysis, Topic Modelling, Deep Learning
 
 ## News
+- **[August. 2025]** Paper titled "FedEasy : Federated learning with ease" published in SoftwareX (Elsevier), Aug. 2025. [IF 2.4, JCR Top 40%]
+- **[July. 2025]** Paper titled "Impact of Network Topologies on Decentralized Federated Learning" accepted in Cluster Computing (Springer), July. 2025. [IF 4.1, JCR Top 21%]
 - **[May. 2025]** Paper titled " Reinforcement learning-based laser cutting machine parameter optimization" accepted in Journal of Intelligent Manufacturing, May. 2025. [IF 5.9, JCR Top 20%]
 - **[Feb. 2025]** Paper titled "FLDQN: Cooperative Multi-Agent Federated Reinforcement Learning for Solving Travel Time Minimization Problems in Dynamic Environments Using SUMO Simulation" accepted in Sensors, Feb. 2025. [IF 3.4]
 - **[Jan. 2025]** **FedEasy** a federated learning framework released as an open-Source project. More details can be found at [https://fedeasy.readthedocs.io/](https://fedeasy.readthedocs.io/)
