@@ -12,13 +12,13 @@ Hello, my name is Majid Ahmad Kundroo, and I am a Postdoctoral researcher at [NC
 - **Machine Learning:** Social Media Analysis, Topic Modelling, Deep Learning
 
 ## News
+- **[Sept. 2025]** Paper titled "Enhancing Traffic Management in Smart Cities: A Federated Learning Approach for Traffic Light Violation Detection" published in HCIS, Sept. 2025. [IF 3.0, JCR Top 45.5%]
 - **[August. 2025]** Paper titled "FedEasy : Federated learning with ease" published in SoftwareX (Elsevier), Aug. 2025. [IF 2.4, JCR Top 40%]
 - **[July. 2025]** Paper titled "Impact of Network Topologies on Decentralized Federated Learning" accepted in Cluster Computing (Springer), July. 2025. [IF 4.1, JCR Top 21%]
 - **[May. 2025]** Paper titled " Reinforcement learning-based laser cutting machine parameter optimization" accepted in Journal of Intelligent Manufacturing, May. 2025. [IF 5.9, JCR Top 20%]
 - **[Feb. 2025]** Paper titled "FLDQN: Cooperative Multi-Agent Federated Reinforcement Learning for Solving Travel Time Minimization Problems in Dynamic Environments Using SUMO Simulation" accepted in Sensors, Feb. 2025. [IF 3.4]
 - **[Jan. 2025]** **FedEasy** a federated learning framework released as an open-Source project. More details can be found at [https://fedeasy.readthedocs.io/](https://fedeasy.readthedocs.io/)
 - **[August. 2024]** Paper titled "Demystifying Impact of Key Hyper-Parameters in Federated Learning: A Case Study on CIFAR-10 and FashionMNIST" accepted in IEEE Access, August 2024. [IF 3.4, JCR Top 34.5%]
-- **[July. 2024]** Paper titled "Enhancing Traffic Management in Smart Cities: A Federated Learning Approach for Traffic Light Violation Detection" accepted in HCIS, July 2024. [IF 3.9, JCR Top 26.3%]
 - **[April. 2024]** Paper titled "WSN-Driven Advances in Soil Moisture Estimation: A Machine Learning Approach" accepted in MDPI-Electronics, April 2024. [IF 2.6, JCR Top 44.5%]
 - **[Dec. 2023]** Recieved Outstanding Graduate Researcher Award from Chungbuk National University.
 - **[August. 2023]** Paper titled "Federated Learning with Hyper-Parameter Optimzation" accepted in Journal of King Saud University – Computer and Information Sciences, August 2023. [IF 6.9, JCR Top 15%]
