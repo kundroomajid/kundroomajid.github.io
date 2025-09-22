@@ -12,6 +12,7 @@ Hello, my name is Majid Ahmad Kundroo, and I am a Postdoctoral researcher at [NC
 - **Machine Learning:** Social Media Analysis, Topic Modelling, Deep Learning
 
 ## News
+- **[Sept. 2025]** Paper titled "Autoencoder-based Decentralized Federated Learning for Efficient Communication" published in Computer Networks (Elsevier), Sept. 2025. [IF 4.6, JCR Top 17.5%]
 - **[Sept. 2025]** Paper titled "Enhancing Traffic Management in Smart Cities: A Federated Learning Approach for Traffic Light Violation Detection" published in HCIS, Sept. 2025. [IF 3.0, JCR Top 45.5%]
 - **[August. 2025]** Paper titled "FedEasy : Federated learning with ease" published in SoftwareX (Elsevier), Aug. 2025. [IF 2.4, JCR Top 40%]
 - **[July. 2025]** Paper titled "Impact of Network Topologies on Decentralized Federated Learning" accepted in Cluster Computing (Springer), July. 2025. [IF 4.1, JCR Top 21%]
