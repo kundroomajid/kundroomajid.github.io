@@ -1,0 +1,12 @@
+@article{SELO2025108177,
+title = {FedTVD: Balancing Data Quality and Quantity for Robust Federated Learning},
+journal = {Future Generation Computer Systems},
+pages = {108177},
+year = {2025},
+issn = {0167-739X},
+doi = {https://doi.org/10.1016/j.future.2025.108177},
+url = {https://www.sciencedirect.com/science/article/pii/S0167739X25004716},
+author = {Radwan Selo and Majid Kundroo and Taehong Kim},
+keywords = {Federated Learning, Total Variation Distance, Independent and Identically Distributed,},
+abstract = {Federated Learning (FL) enables collaborative model training across distributed client devices while preserving data privacy. However, FL faces significant challenges due to data heterogeneity, particularly in terms of label distribution skewness and variations in dataset sizes, which can lead to biased model updates and hinder convergence. To address this, we propose FedTVD, a novel FL algorithm that weights client contributions during aggregation by considering both data quality and quantity. Unlike traditional FL approaches such as FedAvg, which rely solely on dataset size for client weighting, FedTVD integrates Total Variation Distance (TVD) to measure the divergence between each client’s local label distribution and a uniform global distribution. Clients with highly skewed distributions receive lower weights, preventing unbalanced datasets with imbalances from disproportionately influencing the global model. At the same time, dataset size is incorporated to ensure scalability and fairness. This dual-weighting mechanism effectively mitigates the impact of data imbalance, leading to more stable and generalized global models. Experimental results show that FedTVD consistently outperforms state-of-the-art methods across all datasets (FMNIST, CIFAR-10, and CIFAR-100) and all levels of data heterogeneity. Notably, it achieves up to 10.6% improvement over FedAvg on CIFAR-10 under highly skewed data, while maintaining top performance even under moderate and IID settings.}
+}

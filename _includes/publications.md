@@ -8,6 +8,28 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/fedtvd.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">FGCS</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1016/j.future.2025.108177">FedTVD: Balancing Data Quality and Quantity for Robust Federated Learning </a></div>
+    <div class="author"> Radwan Selo, <strong>Majid Kundroo,</strong> Taehong Kim</div>
+    <div class="periodical"><em> Future Generation Computer Systems (Elsevier), 10/2025.</em></div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167739X25004716" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="./assets/bibtex/aedfl.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c"> &nbsp;Journal Article</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/aedfl.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Computer Networks</abbr>
   </div>
