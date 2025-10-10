@@ -8,6 +8,28 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/dfl_cc.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Cluster Computing</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1007/s10586-025-05683-5">Impact of network topologies on decentralized federated learning </a></div>
+    <div class="author"> Radwan Selo, <strong>Majid Kundroo,</strong> Taehong Kim</div>
+    <div class="periodical"><em> Cluster Computing (Springer), 10/2025.</em></div>
+    <div class="links">
+      <a href="https://link.springer.com/article/10.1007/s10586-025-05683-5" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="./assets/bibtex/dfl_cc.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c"> &nbsp;Journal Article</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/fedtvd.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">FGCS</abbr>
   </div>
