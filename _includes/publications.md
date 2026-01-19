@@ -9,7 +9,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/fedmeanstd.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ESWA</abbr>
+    <abbr class="badge">IEEE Access</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://doi.org/10.1109/ACCESS.2025.3648805">FedMeanStd: Federated Aggregation With Outliers Filtering </a></div>
